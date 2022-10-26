@@ -1,0 +1,21 @@
+{
+    "name": "laptop/solid_principles-task",
+    "description": "SOLID prinsiple in php Project Examples",
+    "autoload": {
+        "psr-4": {
+            "Laptop\\SolidPrinciplesTask\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "MohamedShehataAbdalla",
+            "email": "moh.shehata143@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "classes\\": "classes"
+        }
+    }
+}
